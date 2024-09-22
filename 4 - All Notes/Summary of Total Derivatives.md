@@ -10,6 +10,6 @@ Resources : [[UNIT 2-Total Derivative.pdf]]
 
 # **Summary of Total Derivatives**
 
-
+diffentiation using toe
 
 ### References :

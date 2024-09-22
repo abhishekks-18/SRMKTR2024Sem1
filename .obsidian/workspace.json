@@ -11,8 +11,12 @@
             "id": "d7f66a57d20ee5b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4 - All Notes/Summary of Total Derivatives.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4 - All Notes/Summary of Total Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4 - All Notes/Summary of Total Derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4 - All Notes/Summary of Total Derivatives.md"
+              }
             }
           },
           {
@@ -173,7 +181,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "740a9d07bd7da11f",
+  "active": "d7f66a57d20ee5b2",
   "lastOpenFiles": [
     "2 - Source Material/Chemistry/Unit 1/hsab.pdf",
     "hsab.pdf",
